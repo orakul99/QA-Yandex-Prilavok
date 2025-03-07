@@ -31,6 +31,8 @@
 
 **[4. Баг-репорты](https://docs.google.com/spreadsheets/d/1IMMzF_ZQVVAIxlBAVMZoIVqfDt9N0tnLzKYg2NFTD9I/edit?gid=1825227566#gid=1825227566)**
 
+**[Карта объектов тестирования (MindMap)](https://xmind.ai/share/YokILqt9?xid=AqHycrgt)**
+
 
 ## Отчёт
 
